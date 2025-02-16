@@ -1,4 +1,4 @@
-# DICTIIONARY PROGRAM (30 WORDS)
+# DICTIONARY PROGRAM (30 WORDS)
 
 This project is a Python dictionary program created using Thonny. It contains 30 words with their definitions.
 
